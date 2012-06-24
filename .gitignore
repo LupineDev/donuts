@@ -1,3 +1,5 @@
+secret.sh
+
 *.gem
 *.rbc
 .bundle
