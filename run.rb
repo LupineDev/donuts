@@ -1,7 +1,7 @@
 require 'twitter'
 require 'pp'
 
-search_terms = ["donut", "croissant", "cupcake", "malasada", "bacon", "meth", "chocolate", "sex", "cookie", "pie"]
+search_terms = ["donut", "croissant", "cupcake", "malasada", "bacon", "chocolate", "cookie", "pie"]
 @total = 0
 
 def search_for search_term
