@@ -2,7 +2,7 @@ require 'twitter'
 require 'pp'
 
 puts "hello there"
-search_terms = ["pickup truck", "rig"]
+search_terms = ["siamese", "tabby", "calico", "garfield"]
 @total = 0
 
 def search_for search_term
