@@ -1,7 +1,7 @@
 require 'twitter'
 require 'pp'
 
-search_terms = ["ford", "ferrari", "honda"]
+search_terms = ["pickup truck", "rig"]
 @total = 0
 
 def search_for search_term
