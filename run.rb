@@ -1,6 +1,7 @@
 require 'twitter'
 require 'pp'
 
+puts "hello there"
 search_terms = ["ford", "ferrari", "honda"]
 @total = 0
 
